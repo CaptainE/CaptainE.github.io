@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: A Deep Learning Approach to Short Term Blood Glucose Prediction
-based on Continuous Glucose Monitoring Data
+title: A Deep Learning Approach to Short Term Blood Glucose Prediction based on Continuous Glucose Monitoring Data
 author: Ali Mohebbi Alexander Johansen, Nicklas Hansen, Peter Ebert, Morten Mørup
 year: 2019
 key: 2019.12
