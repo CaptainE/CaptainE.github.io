@@ -8,6 +8,7 @@ journal: IEEE
 link: https://drive.google.com/file/d/1NBgXdtaWQkXJ5FmE2erUcNC0nRjdJtNL
 image: /media/publications/BloodSpot/cgmpic.png
 bibtex: /media/publications/BloodSpot/bibtex.txt
+pdf: https://drive.google.com/file/d/1NBgXdtaWQkXJ5FmE2erUcNC0nRjdJtNL
 code: https://github.com/captainE/DiabetesNOVO
 type: paper
 ---
