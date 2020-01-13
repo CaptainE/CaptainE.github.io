@@ -5,7 +5,7 @@ author: J.J.W Olsen, P.E Christensen, M. H. Hansen, A.R. Johansen
 year: 2019
 key: 2019.11
 journal: JCIM
-link: https://arxiv.org/
+link: https://arxiv.org/abs/2001.03517
 image: /media/publications/DL4BIO/autoencode.png
 bibtex: /media/publications/DiscreteLatentVariable/bibtex.txt
 pdf: /media/publications/DL4BIO/First_paper.pdf
