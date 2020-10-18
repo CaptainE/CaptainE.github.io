@@ -6,7 +6,7 @@ year: 2019
 key: 2019.12
 journal: IEEE
 link: https://drive.google.com/file/d/1NBgXdtaWQkXJ5FmE2erUcNC0nRjdJtNL
-image: /media/publications/BloodSpot/cgmpic.png
+image: /media/publications/BloodSpot/cgmpic.PNG
 bibtex: /media/publications/BloodSpot/bibtex.txt
 pdf: https://drive.google.com/file/d/1NBgXdtaWQkXJ5FmE2erUcNC0nRjdJtNL
 code: https://github.com/captainE/DiabetesNOVO
