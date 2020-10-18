@@ -1,6 +1,6 @@
 @article{Mohebbi2019CGMPrediction,
   title={A Deep Learning Approach to Short Term Blood Glucose Prediction based on Continuous Glucose Monitoring Data},
   author={Mohebbi, Ali and Johansen, Alexander and Hansen, Nicklas and Ebert, Peter and M{\o}rup, Morten},
-  journal={IEEE},
-  year={2019}
+  journal={IEEE EMBC},
+  year={2020}
 }
