@@ -1,8 +1,5 @@
-@article{jurtz2017introduction,
-  title={An introduction to Deep learning on biological sequence data--Examples and solutions},
-  author={Jurtz, Vanessa Isabell and Rosenberg Johansen, Alexander and Nielsen, Morten and Almagro Armenteros, Jose Juan and Nielsen, Henrik and Kaae S{\o}nderby, Casper and Winther, Ole and Kaae S{\o}nderby, S{\o}ren},
-  journal={Bioinformatics},
-  pages={btx531},
-  year={2017},
-  publisher={Oxford University Press}
+@article{olsen2020autoencoding,
+  title={Autoencoding Undirected Molecular Graphs With Neural Networks},
+  author={Jeppe Johan Waarkjær Olsen and Peter Ebert Christensen and Martin Hangaard Hansen and Alexander Rosenberg Johansen},
+  year={2020}
 }
