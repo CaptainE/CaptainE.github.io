@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Autoencoding undirected molecular graphs with neural networks
-author: J.J.W Olsen, P.E Christensen, M. H. Hansen, A.R. Johansen
+author: Jeppe Olsen, Peter Eber Christensen, Martin Hansen, Alexander Rosenberg Johansen
 year: 2019
 key: 2019.11
 journal: arxiv
