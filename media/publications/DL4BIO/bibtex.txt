@@ -1,5 +1,0 @@
-@article{olsen2020autoencoding,
-  title={Autoencoding Undirected Molecular Graphs With Neural Networks},
-  author={Jeppe Johan Waarkjær Olsen and Peter Ebert Christensen and Martin Hangaard Hansen and Alexander Rosenberg Johansen},
-  year={2020}
-}

@@ -1,0 +1,6 @@
+@article{christensen2022PAPYER,
+  author    = {Christensen, Peter E. and Warburg, Frederik and Jia, Menglin and Belongie, Serge},
+  title     = {Searching for Structure in Unfalsifiable Claims},
+  journal   = {-},
+  year      = {2022},
+}
