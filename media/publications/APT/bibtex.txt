@@ -1,0 +1,6 @@
+@article{christensen2022apt
+  author    = {Christensen, Peter Ebert and Snæbjarnarson, Vésteinn and Dittadi, Andrea and Belongie, Serge and Benaim, Sagie},
+  title     = {Assessing Neural Network Robustness via Adversarial Pivotal Tuning},
+  journal   = {arxiv},
+  year      = {2022},
+}
