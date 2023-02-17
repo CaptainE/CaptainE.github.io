@@ -1,6 +1,17 @@
-@article{christensen2022PAPYER,
-  author    = {Christensen, Peter E. and Warburg, Frederik and Jia, Menglin and Belongie, Serge},
-  title     = {Searching for Structure in Unfalsifiable Claims},
-  journal   = {-},
-  year      = {2022},
+@misc{christensen2022PAPYER,
+  doi = {10.48550/ARXIV.2209.00495},
+  
+  url = {https://arxiv.org/abs/2209.00495},
+  
+  author = {Christensen, Peter Ebert and Warburg, Frederik and Jia, Menglin and Belongie, Serge},
+  
+  keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), Social and Information Networks (cs.SI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Searching for Structure in Unfalsifiable Claims},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
 }

@@ -1,6 +1,17 @@
-@article{benaim2022volumetric,
-      title={Volumetric Disentanglement for 3D Scene Manipulation}, 
-      author={Sagie Benaim and Frederik Warburg and Peter Ebert Christensen and Serge Belongie},
-      journal={arxiv},
-      year={2022}
+@misc{benaim2022volumetric,
+  doi = {10.48550/ARXIV.2206.02776},
+  
+  url = {https://arxiv.org/abs/2206.02776},
+  
+  author = {Benaim, Sagie and Warburg, Frederik and Christensen, Peter Ebert and Belongie, Serge},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Volumetric Disentanglement for 3D Scene Manipulation},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
 }
