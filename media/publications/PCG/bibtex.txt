@@ -1,0 +1,17 @@
+@misc{christensen2023prompt,
+  doi = {10.48550/ARXIV.2309.10359},
+  
+  url = {https://arxiv.org/abs/2309.10359},
+  
+  author = {Christensen, Peter Ebert and Yadav, Srishti and Belongie, Serge},
+  
+  keywords = {Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Prompt, Condition, and Generate: Classification of Unsupported Claims with In-Context Learning},
+  
+  publisher = {arxiv},
+  
+  year = {2023},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}

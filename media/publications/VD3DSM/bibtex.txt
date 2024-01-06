@@ -9,9 +9,9 @@
   
   title = {Volumetric Disentanglement for 3D Scene Manipulation},
   
-  publisher = {arXiv},
+  publisher = {WACV},
   
-  year = {2022},
+  year = {2024},
   
   copyright = {Creative Commons Attribution 4.0 International}
 }

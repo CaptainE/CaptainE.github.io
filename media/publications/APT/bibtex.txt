@@ -9,9 +9,9 @@
   
   title = {Assessing Neural Network Robustness via Adversarial Pivotal Tuning},
   
-  publisher = {arXiv},
+  publisher = {WACV},
   
-  year = {2022},
+  year = {2024},
   
   copyright = {Creative Commons Attribution 4.0 International}
 }
