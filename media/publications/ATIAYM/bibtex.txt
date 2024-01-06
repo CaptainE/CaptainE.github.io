@@ -1,0 +1,17 @@
+@misc{bates2023template,
+  doi = {10.48550/ARXIV.2311.06649},
+  
+  url = {https://arxiv.org/abs/2311.06649},
+  
+  author = {Bates, Luke and Christensen, Peter Ebert and Nakov, Preslav and Gurevych, Iryna},
+  
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {A Template Is All You Meme},
+  
+  publisher = {arxiv},
+  
+  year = {2023},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
